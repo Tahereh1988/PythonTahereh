@@ -5,7 +5,7 @@ Created on Wed May 24 09:11:09 2023
 
 @author: tara
 """
-
+#this a simple example to show regularization method
 import numpy as np
 from numpy.linalg import inv
 
